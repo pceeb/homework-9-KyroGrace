@@ -8,6 +8,7 @@ also share your questionnaire with the group that created the program __by the e
 ### The Readme
 
 #### 1. Is the Readme file the first document displayed upon lading the Github?  Does this Readme page include a title, and the name and contact information for all project members?
+  ShinyApp --> 
 
 #### 2. Is the purpose of this program clear from the Introduction?  What -in your own words- is the motivation behind the program.
 
