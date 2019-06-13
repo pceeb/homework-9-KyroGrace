@@ -29,7 +29,7 @@ also share your questionnaire with the group that created the program __by the e
       There is a directory called Scripts_1DMotionFinal.R that has scripts for the program.
 
 #### 9. Do these programs generate a run log?
----       These prorams do generate a run log 
+---       N/A. (Because it is a shiny app).
 
 ### The Vignette
 
